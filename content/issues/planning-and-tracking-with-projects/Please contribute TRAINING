@@ -1,0 +1,307 @@
+# AILECORE Artificial Intellect, Learning Edition
+
+# Learning in progress. Teaching in progress. Site in progress.
+
+# git status git add https://github.com/MakerI0nProgress/GitHub-Website-Tutorial/commit/b34dca33a13511a41a917a841232a6789535ed4c#diff-b3305630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5 git commit -m "---
+
+# This repository holds the step-by-step tutorial for building AILEcore.com from scratch using GitHub Pages.
+
+# The goal is not just to publish a site, but to make the building process itself a lesson — a living demo of AILE’s philosophy.
+
+# 
+
+# Table of Contents
+
+# Current status
+
+# Next Steps
+
+# About AILE
+
+# Contributing
+
+# License
+
+# Current status
+
+# Repository created
+
+# index.html added
+
+# README initialized
+
+# CSS and assets to be added
+
+# Domain connection (AILEcore.com) later
+
+# Next Steps
+
+# Add styles
+
+# 
+
+# Create assets/style.css
+
+# Link it in index.html
+
+# Add structure
+
+# 
+
+# Create folders for images/ and scripts/
+
+# Prepare placeholders for future content
+
+# Expand content
+
+# 
+
+# Add a simple navigation menu
+
+# Create an about.html page
+
+# Connect the domain
+
+# 
+
+# Point AILEcore.com to GitHub Pages once the site is ready
+
+# Document progress
+
+# 
+
+# Update this README as each step is completed
+
+# Use commits as tutorial checkpoints
+
+# About AILE
+
+# AILE (Artificial Intelligent Learning Edition) is about growing through teaching and teaching through growing.
+
+# This project turns a simple website into a guided journey, where each commit is part of the curriculum.
+
+# 
+
+# Contributing
+
+# Learning and contributions are welcome.
+
+# This project encourages ethical development and positive growth for all.
+
+# 
+
+# License
+
+# © 2025 AILE Foundation.
+
+# Content is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+# This repository is for learning and positive growth.
+
+# No commercial use, copying, or modification is permitted without written permission.
+
+# Ethical development and positive growth for all is the guiding principle.
+
+# 
+
+# README.md
+
+# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+# 
+
+# 
+
+# \# AILECORE    Artificial Intellect, Learning Edition
+
+# 
+
+# \*\*Learning in progress. Teaching in progress. Site in progress.\*\*
+
+# 
+
+# This repository holds the step-by-step tutorial for building \[AILEcore.com](http://AILEcore.com) from scratch using GitHub Pages.  
+
+# The goal is not just to publish a site, but to make the building process itself a lesson — a living demo of AILE’s philosophy.
+
+# 
+
+# ---
+
+# 
+
+# \## Table of Contents
+
+# 1\. \[Current status](#current-status)
+
+# 2\. \[Next Steps](#next-steps)
+
+# 3\. \[About AILE](#about-aile)
+
+# 4\. \[Contributing](#contributing)
+
+# 5\. \[License](#license)
+
+# 
+
+# ---
+
+# 
+
+# \## Current status
+
+# \- Repository created
+
+# \- `index.html` added
+
+# \- README initialized
+
+# \- CSS and assets to be added
+
+# \- Domain connection (AILEcore.com) later
+
+# 
+
+# ---
+
+# 
+
+# \## Next Steps
+
+# 
+
+# 1\. \*\*Add styles\*\*  
+
+# &nbsp;  - Create `assets/style.css`  
+
+# &nbsp;  - Link it in `index.html`  
+
+# 
+
+# 2\. \*\*Add structure\*\*  
+
+# &nbsp;  - Create folders for `images/` and `scripts/`  
+
+# &nbsp;  - Prepare placeholders for future content  
+
+# 
+
+# 3\. \*\*Expand content\*\*  
+
+# &nbsp;  - Add a simple navigation menu  
+
+# &nbsp;  - Create an `about.html` page  
+
+# 
+
+# 4\. \*\*Connect the domain\*\*  
+
+# &nbsp;  - Point `AILEcore.com` to GitHub Pages once the site is ready  
+
+# 
+
+# 5\. \*\*Document progress\*\*  
+
+# &nbsp;  - Update this README as each step is completed  
+
+# &nbsp;  - Use commits as tutorial checkpoints
+
+# 
+
+# ---
+
+# 
+
+# \## About AILE
+
+# AILE (Artificial Intelligent Learning Edition) is about growing through teaching and teaching through growing.  
+
+# This project turns a simple website into a guided journey, where each commit is part of the curriculum.
+
+# 
+
+# ---
+
+# 
+
+# \## Contributing
+
+# Learning and contributions are welcome.  
+
+# 
+
+# Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+# 
+
+# Copyright (c) 2025 AILE Foundation
+
+# 
+
+# You are free to share — copy and redistribute the material in any medium or format  
+
+# Under the following terms:
+
+# \- \*\*Attribution\*\* — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+# \- \*\*NonCommercial\*\* — You may not use the material for commercial purposes.
+
+# \- \*\*NoDerivatives\*\* — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+# 
+
+# \*\*Ethical development and positive growth for all is the guiding principle.\*\*
+
+# 
+
+# Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+# LICENSE
+
+# 
+
+# 
+
+# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+# 
+
+# This project encourages ethical development and positive growth for all.
+
+# 
+
+# ---
+
+# 
+
+# \## License
+
+# 
+
+# © 2025 AILE Foundation.  
+
+# Content is licensed under \[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+
+# This repository is for learning and positive growth.  
+
+# No commercial use, copying, or modification is permitted without written permission.  
+
+# Ethical development and positive growth for all is the guiding principle.
+
+# 
+
+# Here is your current README.md file's Blob SHA:
+
+# 
+
+# README.md Blob SHA:
+
+# 
+
+# This SHA is needed to update the file directly via the GitHub API.
+
+# 
+
+NEXT STEPS  TRUE SECURITY SET UP W/out deprecated certs,  $$ AND Https.
+
+
